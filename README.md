@@ -1,4 +1,4 @@
-# Chathurani N Thuduwage
+# Chathurani Nimesha
 
 Welcome to my personal portfolio website!
 This website showcases my projects, skills, achievements, and experience as a Computing and Information Systems undergraduage.
